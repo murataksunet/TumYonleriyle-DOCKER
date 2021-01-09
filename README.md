@@ -1,5 +1,13 @@
-<a href="https://youtu.be/JrSU2-4Vl1U" /><img src="http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png" />
+<html>
+<body>
 
+<p>
+<a href="https://youtu.be/JrSU2-4Vl1U" /><img src="http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png" />
+</a>
+</p>
+
+</body>
+</html>
 Çok Değerli, Pek Kıymetli Arkadaşlarım Sıfırdan Tüm Yönleriyle Docker Eğitimime Hepiniz Hoşgeldiniz 
 
 Son beş yıl içerisinde BT endüstrisinin bir yerindeyseniz , büyük olasılıkla konteyner ve bu platformda lider olan Docker’ı duydunuz yada yakın bir zamanda duyacaksınız. Peki Docker'ı bu kadar populer hale getiren nedir ?
