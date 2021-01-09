@@ -1,11 +1,9 @@
 # TumYonleriyle-DOCKER
+![alt text](http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png)
 
 Çok Değerli, Pek Kıymetli Arkadaşlarım Sıfırdan Tüm Yönleriyle Docker Eğitimime Hepiniz Hoşgeldiniz 
 
 Son beş yıl içerisinde BT endüstrisinin bir yerindeyseniz , büyük olasılıkla konteyner ve bu platformda lider olan Docker’ı duydunuz yada yakın bir zamanda duyacaksınız. Peki Docker'ı bu kadar populer hale getiren nedir ?
-
-![alt text](http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png)
-
 Arkadaşlar aslında büyük resme bakacak olursak tüm sistemler üzerinde (geleneksel mimari, sanal mimari) yapmaya çalıştığımız uygulamaların verileri işleyebileceği bir ortam oluşturulması ve bu verilerin güvenli bir şekilde saklanması değil midir ? Örneğin şirket web sitesini yayınlamak  için web server yazılımına , dataların saklanması için database uygulamasına ihtiyaç duyulmakta ve bu uygulamalar sayesinde veriler işlenmektedir.
 
 Konteyner mimarisi ile artık farklı sistemler kurmadan var olan işletim sistemimiz üzerinde uygulamalarımızı birbirinden tamamen izole olacak şekilde hızlıca çalıştırabilmekte ve verilerimizi güvenli bir şekilde işleyebilmekteyiz. Konteyner mimarisi özellikle yazılım alanında bizlere devrim niteliğinde büyük kolaylıklar getirmektedir. Farklı dillerde yazılan uygulamaların test edilmesi bunların production ortamına deploy edilmesi çok hızlı, hatasız ve kararlı bir şekilde yapılabilmektedir. Canlı sistem üzerinde çalışan uygulamanız, talebin çoğaldığı zamanlar da çok hızlı bir şekilde büyütülebilmektedir. Buda sistem yöneticileri ve yazılımcılar için büyük kolaylık sağlamaktadır.
