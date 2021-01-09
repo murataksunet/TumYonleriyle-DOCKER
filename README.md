@@ -1,6 +1,4 @@
-![alt text](http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png)
-
-<a href="the-url-you-want-to-go-when-image-is-clicked.com" /><img src="http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png" />
+<a href="https://youtu.be/JrSU2-4Vl1U" /><img src="http://www.murataksu.net/wp-content/uploads/2020/12/Docker-Nedir-3.png" />
 
 Çok Değerli, Pek Kıymetli Arkadaşlarım Sıfırdan Tüm Yönleriyle Docker Eğitimime Hepiniz Hoşgeldiniz 
 
